@@ -1,0 +1,4 @@
+html { background: #09110e; }
+body { min-width: 320px; min-height: 100vh; }
+button, a { font: inherit; }
+::selection { background: #89f0bd; color: #07100c; }
